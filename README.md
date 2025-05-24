@@ -1,1 +1,1 @@
-# FinWise
+Financial Accountability app
